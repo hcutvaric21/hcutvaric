@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "hr.foi.rampu.testingexamplesapplication"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "hr.foi.rampu.testingexamplesapplication"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
